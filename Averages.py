@@ -1,5 +1,5 @@
 print("This is the program for averages")
-x = int(input("Enter Three Numbers to find Averages: "))
+x = int(input("Enter 3 Numbers to find Averages: "))
 y = int(input())
 z = int(input())
 avg = x+y+z/3
